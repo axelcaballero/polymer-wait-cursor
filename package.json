@@ -1,0 +1,30 @@
+{
+  "name": "polymer-wait-cursor",
+  "version": "1.0.0",
+  "description": "changes cursor based on # of outstanding REST calls",
+  "main": "polymer-wait-cursor.html",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "babel-eslint": "^5.0.4",
+    "chai": "^3.5.0",
+    "eslint": "^1.10.3",
+    "eslint-plugin-html": "^1.4.0",
+    "mocha": "^2.4.5",
+    "web-component-tester": "^3.3.30"
+  },
+  "scripts": {
+    "test": "wct"
+  },
+  "keywords": [
+    "polymer-wait-cursor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gatom0g/polymer-wait-cursor.git"
+  },
+  "author": "Axel Caballero",
+  "license": "MIT",
+  "homepage": "https://github.com/gatom0g/polymer-wait-cursor#readme"
+}
